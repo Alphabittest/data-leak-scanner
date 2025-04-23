@@ -115,9 +115,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 - Criar PRs com melhorias
 - Sugerir novos detectores
 
----
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 

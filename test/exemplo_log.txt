@@ -1,0 +1,8 @@
+Usuário: joao.silva@example.com
+CPF: 123.456.789-00
+Senha: 123456
+Token: ghp_ABC123TOKENEXEMPLO
+
+Outro e-mail suspeito: maria_1990@hotmail.com
+Informações de cliente:
+CPF: 98765432100

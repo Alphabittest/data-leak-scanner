@@ -28,7 +28,7 @@ Um projeto em Python focado em **segurança da informação**, que realiza a var
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/sensitive-data-scanner.git
+git clone https://github.com/Alphabittest/sensitive-data-scanner.git
 cd sensitive-data-scanner
 ```
 
